@@ -1,0 +1,18 @@
+table{
+    margin: 100px auto;
+}
+
+tr, td{
+    padding: 20px;
+    border: 2px solid rgb(129, 129, 129);
+}
+
+#clock{
+    background-color: black;
+}
+
+#greeting{
+    font-size: 30px;
+    font-weight: 600;
+    color: red;
+}
