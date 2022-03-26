@@ -1,0 +1,44 @@
+main{
+    text-align: center;
+
+}
+h2{
+    color:rgb(60, 128, 131);
+}
+
+table{
+    margin: 0 auto;
+}
+
+table, tr, td{
+    border: 1px solid black;
+}
+
+tr:last-child input{
+    width: 10%;
+    margin-right: 6%;
+}
+
+#col1_row1{
+    width: 20%;
+}
+
+button {
+    background-color: cadetblue;
+    color: rgb(73, 73, 72);
+    font-weight: bold;
+    border-radius: 3px;
+
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.index_add, .value_add{
+    outline-color: cadetblue;
+}
+
+.result{
+    color:grey;
+}
